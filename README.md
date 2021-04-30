@@ -68,3 +68,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+This is the react aplication on charts.
+I have built Barchart and scatter chart.
+Barchart showing here is intensity of different color and the hue.
+Scatter chart showing here shows the concentration of malic acid in different alcohol.
+1. Firstly create react app by the command create-react-app and create a folder, this command setup all the depencies which are needed, also intall yarn module if you dont have one.
+2. within the folder I have 4 files- index.js, App.js, BarChart.js, ScatterChart.js
+3. To impelement chart, we need to install chart module by importing react-chartjs-2 module. This helps us to build different tyoes of charts.
+4. After implementation of project use yarn run start to run the project in the localhost.
+5. Note : I Have taken care of the height and width of the graph for different platforms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
